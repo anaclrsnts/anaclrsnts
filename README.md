@@ -7,7 +7,7 @@ Olá! :)
 </p>
  
 <p align="center"> 
-Sou estudante de Engenharia Eletrônica e de Computação na UFRJ e Desenvolvedora Fullstack em formação na Cubos Academy.
+Sou graduanda em Engenharia Eletrônica e de Computação pela UFRJ e Desenvolvedora Fullstack em formação pela Cubos Academy.
 </p>
 
 <p align="center"> 
