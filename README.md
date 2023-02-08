@@ -1,16 +1,20 @@
-### Hi there 👋
+<img align="left" src= "https://github.com/anaclrsnts/anaclrsnts/blob/main/giphy.gif" width="350"/>
 
-<!--
-**anaclrsnts/anaclrsnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+ Graduanda em Engenharia Eletrônica pela UFRJ e aluna de desevolvimento de software fullstack na Cubos Academy. 
+ </p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+  <a href="https://open.spotify.com/playlist/6wd79t3I0FeKz6RaN6oVwK" target="_blank"><img src="https://img.shields.io/badge/My%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+<b>
+ 🔎 Onde me encontrar:
+</b>
+</p>
+ 
+ <p align="center"> 
+  <a href = "mailto:anaclaradiogo@poli.ufrj.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anaclaradpereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
